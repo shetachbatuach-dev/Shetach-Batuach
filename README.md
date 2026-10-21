@@ -6,6 +6,8 @@ Public information, support, legal and store-compliance pages for **שטח בט�
 
 שטח בטוח provides regional weather and point forecasts, rider hazard reports with optional photo and precise location, official updates, favorite areas, push and local reminders, riding mode, route history and quick in-ride hazard marking on supported mobile builds. Riding mode can continue route tracking in the background or while the screen is locked when the user explicitly starts a ride and grants the required operating-system permissions. Registered users can manage their profile, reports, favorites, notifications and account. Authorized administrators use a protected dashboard for moderation, notices and push messaging.
 
+Riders can also explicitly share their current location in a community assistance request and offer help to other riders in the area. This is voluntary mutual assistance, not a professional rescue service or a guarantee that anyone will arrive. Ride history includes a full-screen route map; the reminder settings explain when to plan the next ride. Google and Sign in with Apple are supported sign-in options.
+
 Production runs at **https://shetachbatuach.com** on Cloudflare. Android and iOS wrappers use the same production application.
 
 ## Public URLs
